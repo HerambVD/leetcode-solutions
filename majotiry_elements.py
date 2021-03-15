@@ -1,4 +1,4 @@
-########
+##############################
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         for i in list(set(nums)):
